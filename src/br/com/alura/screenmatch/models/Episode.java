@@ -1,9 +1,20 @@
 package br.com.alura.screenmatch.models;
 
-public class Episode {
+import br.com.alura.screenmatch.calculations.Stars;
+
+public class Episode implements Stars {
 	private int number;
 	private String name;
 	private Serie serie;
+	private int totalViews;
+
+	public int getTotalViews() {
+		return totalViews;
+	}
+
+	public void setTotalViews(int totalViews) {
+		this.totalViews = totalViews;
+	}
 
 	public int getNumber() {
 		return number;
@@ -27,5 +38,10 @@ public class Episode {
 
 	public void setSerie(Serie serie) {
 		this.serie = serie;
+	}
+
+	@Override
+	public int getStars() {
+		return (totalViews >= 100) ? 4 : 2;
 	}
 }

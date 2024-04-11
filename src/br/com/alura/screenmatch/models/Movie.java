@@ -15,6 +15,6 @@ public class Movie extends Titles implements Stars {
 
 	@Override
 	public int getStars() {
-		return 0;
+		return (int) ratingAverage() / 2;
 	}
 }
