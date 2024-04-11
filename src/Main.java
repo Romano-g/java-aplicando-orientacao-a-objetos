@@ -4,6 +4,8 @@ import br.com.alura.screenmatch.models.Episode;
 import br.com.alura.screenmatch.models.Movie;
 import br.com.alura.screenmatch.models.Serie;
 
+import java.util.ArrayList;
+
 public class Main {
 	public static void main(String[] args) {
 		Movie myMovie = new Movie();
@@ -40,10 +42,26 @@ public class Main {
 		Recommendations recommendation = new Recommendations();
 		recommendation.filter(myMovie);
 
+		Movie avatar = new Movie();
+		Movie superman = new Movie();
+
+		avatar.setName("Avatar");
+		avatar.setReleaseYear(2023);
+		superman.setName("Superman");
+		superman.setReleaseYear(2012);
+
 		Episode episode = new Episode();
 		episode.setNumber(1);
 		episode.setSerie(mySerie);
 		episode.setTotalViews(100);
 		recommendation.filter(episode);
+
+		ArrayList<Movie> movieArrayList = new ArrayList<>();
+		movieArrayList.add(myMovie);
+		movieArrayList.add(avatar);
+		movieArrayList.add(superman);
+
+		System.out.println("\n" + movieArrayList.size());
+		System.out.println(movieArrayList);
 	}
 }

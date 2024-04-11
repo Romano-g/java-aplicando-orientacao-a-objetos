@@ -17,4 +17,9 @@ public class Movie extends Titles implements Stars {
 	public int getStars() {
 		return (int) ratingAverage() / 2;
 	}
+
+	@Override
+	public String toString() {
+		return getName() + " (" + getReleaseYear() + ")";
+	}
 }
