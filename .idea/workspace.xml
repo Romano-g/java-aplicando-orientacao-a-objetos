@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b7de874-2924-4f96-bd9f-b17420928ea3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-aplicando-orientacao-a-objetos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculations/Stars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculations/TimeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/models/Episode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/models/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/models/Serie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/models/Titles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_001/BookMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_001/MainPeopleAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_001/MainProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_001/MainStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_001/models/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_001/models/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_001/models/PeopleAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_001/models/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_001/models/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_002/BankAccountMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_002/MainAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_002/MainCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_002/MainPrimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_002/models/Animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_002/models/Animal/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_002/models/Animal/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_002/models/BankAccount/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_002/models/BankAccount/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_002/models/Car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_002/models/Car/ModelCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_002/models/PrimeNumbers/PrimeNumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_002/models/PrimeNumbers/PrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_002/models/PrimeNumbers/VerifyPrime.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2esXaKRltoUmulZxCWpcuGJ1PXw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BankAccountMain.executor": "Run",
+    "Application.BookMain.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MainAnimal.executor": "Run",
+    "Application.MainCar.executor": "Run",
+    "Application.MainPeopleAge.executor": "Run",
+    "Application.MainPrimes.executor": "Run",
+    "Application.MainProduct.executor": "Run",
+    "Application.MainStudent.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/home/romano/Documentos/projetos_java/java-aplicando-orientacao-a-objetos/src/Main.java",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b7de874-2924-4f96-bd9f-b17420928ea3" name="Changes" comment="" />
+      <created>1712694323138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712694323138</updated>
+    </task>
+    <servers />
+  </component>
+</project>
