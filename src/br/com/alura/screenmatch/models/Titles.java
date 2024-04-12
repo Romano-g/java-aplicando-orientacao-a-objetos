@@ -8,6 +8,11 @@ public class Titles {
 	private int totalRatingVotes;
 	private int durationInMinutes;
 
+	public Titles(String name, int releaseYear) {
+		this.name = name;
+		this.releaseYear = releaseYear;
+	}
+
 	public int getTotalRatingVotes () {
 		return totalRatingVotes;
 	}

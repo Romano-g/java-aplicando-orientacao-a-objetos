@@ -8,9 +8,7 @@ import java.util.ArrayList;
 
 public class Main {
 	public static void main(String[] args) {
-		Movie myMovie = new Movie();
-		myMovie.setName("Top Gun Maverick");
-		myMovie.setReleaseYear(2022);
+		Movie myMovie = new Movie("Top Gun Maverick", 2022);
 		myMovie.setDurationInMinutes(150);
 		myMovie.setIncludedInSubscription(true);
 
@@ -22,9 +20,7 @@ public class Main {
 		System.out.printf("Média de avaliação: %.2f", myMovie.ratingAverage());
 		System.out.println("\nTotal de avaliações: " + myMovie.getTotalRatingVotes());
 
-		Serie mySerie = new Serie();
-		mySerie.setName("From");
-		mySerie.setReleaseYear(2020);
+		Serie mySerie = new Serie("From", 2020);
 		mySerie.showDatasheet();
 
 		mySerie.setSeasons(10);
@@ -42,13 +38,9 @@ public class Main {
 		Recommendations recommendation = new Recommendations();
 		recommendation.filter(myMovie);
 
-		Movie avatar = new Movie();
-		Movie superman = new Movie();
+		Movie avatar = new Movie("Avatar", 2023);
+		Movie superman = new Movie("Superman", 2012);
 
-		avatar.setName("Avatar");
-		avatar.setReleaseYear(2023);
-		superman.setName("Superman");
-		superman.setReleaseYear(2012);
 
 		Episode episode = new Episode();
 		episode.setNumber(1);
@@ -63,5 +55,7 @@ public class Main {
 
 		System.out.println("\n" + movieArrayList.size());
 		System.out.println(movieArrayList);
+
+
 	}
 }

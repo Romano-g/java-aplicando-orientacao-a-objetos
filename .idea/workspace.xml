@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b7de874-2924-4f96-bd9f-b17420928ea3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/java-aplicando-orientacao-a-objetos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-trabalhando-com-arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/desafio_002/PerishableProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/desafio_002/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/desafio_002/ProductMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/models/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/models/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/models/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/models/Serie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/models/Titles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/models/Titles.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,33 +41,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BankAccountMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BookMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculableMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CurrencyMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainAnimal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainCar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainPeopleAge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainPrimes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainProduct.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainStudent.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiplicationMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PeopleMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RectangularMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SellableMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TemperatureMain.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/romano/Documentos/projetos_java/java-trabalhando-com-arrays&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/home/romano/Documentos/projetos_java/java-aplicando-orientacao-a-objetos/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BankAccountMain.executor": "Run",
+    "Application.BookMain.executor": "Run",
+    "Application.CalculableMain.executor": "Run",
+    "Application.CurrencyMain.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MainAnimal.executor": "Run",
+    "Application.MainCar.executor": "Run",
+    "Application.MainPeopleAge.executor": "Run",
+    "Application.MainPrimes.executor": "Run",
+    "Application.MainProduct.executor": "Run",
+    "Application.MainStudent.executor": "Run",
+    "Application.MultiplicationMain.executor": "Run",
+    "Application.PeopleMain.executor": "Run",
+    "Application.ProductMain.executor": "Run",
+    "Application.RectangularMain.executor": "Run",
+    "Application.SellableMain.executor": "Run",
+    "Application.TemperatureMain.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/romano/Documentos/projetos_java/java-trabalhando-com-arrays",
+    "onboarding.tips.debug.path": "/home/romano/Documentos/projetos_java/java-aplicando-orientacao-a-objetos/src/Main.java",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
