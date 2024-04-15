@@ -41,7 +41,7 @@ public class Episode implements Stars {
 	}
 
 	@Override
-	public int getStars() {
+	public double getStars() {
 		return (totalViews >= 100) ? 4 : 2;
 	}
 }
